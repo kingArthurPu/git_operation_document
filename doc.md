@@ -129,6 +129,9 @@ git config --global --replace-all user.name "your user name"
 
 修改邮箱地址参考命令如下：
 
-```
+```cmd
 git config --global --replace-all user.email"your user email"
 ```
+
+
+
